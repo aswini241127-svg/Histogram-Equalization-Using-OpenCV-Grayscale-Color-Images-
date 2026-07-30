@@ -158,3 +158,30 @@ plt.title('Histogram Equalized')
 
 plt.show()
 ```
+## Output
+
+### Grayscale Histogram Equalization
+
+- Original grayscale image is displayed.
+- <img width="704" height="468" alt="image" src="https://github.com/user-attachments/assets/b72bac36-0004-49b2-b659-2b5e55c19a87" />
+
+- Histogram of the original grayscale image is plotted.
+- <img width="731" height="548" alt="image" src="https://github.com/user-attachments/assets/46bc8853-283d-49cb-9f75-26aad0b6334a" />
+
+- Equalized grayscale image is displayed.
+- <img width="788" height="528" alt="image" src="https://github.com/user-attachments/assets/a05cf959-7265-4a91-9de9-25baf778b0ba" />
+
+- Histogram of the equalized image shows improved contrast.
+- 
+<img width="727" height="498" alt="image" src="https://github.com/user-attachments/assets/7954119b-91cf-4391-9f2b-843e3cd3ffdb" />
+
+### Color Image Histogram Equalization
+
+<img width="1230" height="443" alt="image" src="https://github.com/user-attachments/assets/7968a380-ff96-4bc5-a521-401d62491f7c" />
+
+<img width="1253" height="530" alt="image" src="https://github.com/user-attachments/assets/7f1c147d-7cfe-4f1a-813a-783fc2fe143e" />
+
+
+## Result
+
+Thus, histogram equalization was successfully performed on both grayscale and color images using OpenCV. The contrast of the images was enhanced, improving the overall visual quality.
